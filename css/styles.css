@@ -1,4 +1,15 @@
 
+body {
+  margin: 0;
+}
+
+.main-div {
+  background-color: lavender;
+  position: relative;
+  top: 100px;
+  left: 100px;
+}
+
 .top-div {
   background-color: red;
   height: 200px;
