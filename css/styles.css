@@ -3,16 +3,22 @@
   background-color: red;
   height: 200px;
   width: 200px;
+  position: relative;
+  left: 100px;
 }
 
 .middle-div {
   background-color: yellow;
   height: 200px;
   width: 200px;
+  position: relative;
+  left: 300px;
 }
 
 .bottom-div {
   background-color: green;
   height: 200px;
   width: 200px;
+  position: relative;
+  left: 100px;
 }
