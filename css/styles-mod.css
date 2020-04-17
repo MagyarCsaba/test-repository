@@ -1,0 +1,41 @@
+
+body {
+  margin: 0;
+  background-color: wheat;
+}
+
+
+.top-div {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  position: relative;
+  border: solid;
+  border-width: 20px;
+  border-color: grey;
+  margin: 20px;
+}
+
+.middle-div {
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+  position: relative;
+  border: solid;
+  border-color: orange;
+  border-width: 30px;
+  left: 260px;
+  bottom: 20px;
+}
+
+.bottom-div {
+  background-color: lavender;
+  height: 200px;
+  width: 200px;
+  border: solid;
+  border-color: green;
+  border-width: 50px;
+  position: relative;
+  left: 520px;
+  bottom: 20px;
+}
