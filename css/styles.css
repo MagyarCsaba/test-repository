@@ -6,8 +6,9 @@ body {
 .main-div {
   background-color: lavender;
   position: relative;
-  top: 100px;
-  left: 100px;
+  top: 50px;
+  left: 50px;
+  height: 450px;
 }
 
 .top-div {
@@ -15,7 +16,8 @@ body {
   height: 200px;
   width: 200px;
   position: relative;
-  left: 100px;
+  left: 50px;
+  top: 50px;
 }
 
 .middle-div {
@@ -31,5 +33,6 @@ body {
   height: 200px;
   width: 200px;
   position: relative;
-  left: 100px;
+  left: 550px;
+  bottom: 350px;
 }
